@@ -41,7 +41,7 @@ st.markdown("""
 
 # 3. O SEU "BANCO DE DADOS" DE MENSAGENS
 mensagens_diarias = {
-    "2026-05-13": "Esta é a primeira mensagem do site! Um ótimo dia para você. ✨",
+    "2026-05-13": "oiiiiiiiiiiiiiiiiiiii",
     "2026-05-14": "Hoje é um novo dia. Lembre-se de beber água e sorrir! 🌸",
     "2026-05-15": "Você está indo muito bem! Que seu dia seja leve e tranquilo. 💖",
     "2026-05-16": "Pode escrever textos curtos ou longos, o cartão branco vai se adaptar sozinho."
