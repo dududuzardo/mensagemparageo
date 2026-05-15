@@ -41,8 +41,8 @@ st.markdown("""
 
 # 3. O SEU "BANCO DE DADOS" DE MENSAGENS
 mensagens_diarias = {
-    "2026-05-15": "Oiiiiiii, essa é a primeira mensagem pra vc geovanna vasconcelos, ou melhor, amor da minha vida. Volte amanhã",
-    "2026-05-16": "nada por aqui hj princesa, volte amanhã",
+    "2026-05-15": "Oiiiiiii, essa é a primeira mensagem pra vc geovanna vasconcelos, ou melhor, amor da minha vida. Volte amanhã.",
+    "2026-05-16": "nada por aqui hj princesa, volte amanhã.",
     "2026-05-17": "Hmmmmmmmmm, ainda não, volte AMANHÃ...",
     "2026-05-18": "FELIZ NOSSO DIA, eu te amo ininitamente meu amor, e criaria mais infinitos sites pra dizer isso. BEIJOOOOS. já tô com sdd..."
 }
